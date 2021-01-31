@@ -1,0 +1,22 @@
+{
+  "chromeWebSecurity": false,
+  "blockHosts": [
+    "facebook.net",
+    "doubleclick.net",
+    "bible.com",
+    "facebook.com",
+    "google-analytics.com",
+    "googleadservices.com",
+    "googletagmanager.com",
+    "gstatic.com"
+  ],
+  "env": {
+    "url": "https://localhost:3201",
+    "adminUrl": "https://admin.staging.streaminglive.church",
+    "accessManagmentUrl": "https://accessApi.staging.churchapps.org",
+    "chatServiceUrl": "ws://localhost:8201",
+    "email": "localhost@streaminglive.church",
+    "password": "password"
+  },
+  "projectId": "xd9vre"
+}
